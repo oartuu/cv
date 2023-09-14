@@ -10,13 +10,13 @@ header{
     padding: 5px;
     background-color: rgb(24, 24, 24);
     height: 200px;
-    width: 100vw;
+    width: 98.9vw;
     position: relative;
 }
 header>h1{
     font-family: 'Josefin Sans', sans-serif;
     position: absolute;
-    left:36%;
+    left: 32%;
     top: 5%;
     color: #fff;
     margin: 10;
@@ -25,7 +25,7 @@ header>h1{
 header>h4{
     font-family: 'Cutive Mono', monospace;
     position: absolute;
-    left: 42%;
+    left: 40%;
     top: 30%;
     color: #fff;
     font-size: 30px;
